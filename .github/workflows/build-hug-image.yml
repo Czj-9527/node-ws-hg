@@ -41,7 +41,7 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/xiaolabahg9527/xiaolabahg9527:latest
+            ghcr.io/czj-9527/xiaolabahg9527:latest
           labels: |
             org.opencontainers.image.source=https://github.com/xiaolabahg9527
             org.opencontainers.image.description=http server
